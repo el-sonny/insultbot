@@ -1,1 +1,1 @@
-web: bin/hubot -a twitter -n el_sonny
+web: bin/hubot -a gitter
